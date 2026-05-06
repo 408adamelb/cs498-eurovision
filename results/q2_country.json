@@ -1,0 +1,826 @@
+[
+  {
+    "_id": "United Kingdom",
+    "tweet_count": 6041
+  },
+  {
+    "_id": "España",
+    "tweet_count": 2073
+  },
+  {
+    "_id": "Ireland",
+    "tweet_count": 1953
+  },
+  {
+    "_id": "Portugal",
+    "tweet_count": 1888
+  },
+  {
+    "_id": "Nederland",
+    "tweet_count": 1626
+  },
+  {
+    "_id": "Россия",
+    "tweet_count": 1507
+  },
+  {
+    "_id": "France",
+    "tweet_count": 1037
+  },
+  {
+    "_id": "Italia",
+    "tweet_count": 928
+  },
+  {
+    "_id": "Australia",
+    "tweet_count": 639
+  },
+  {
+    "_id": "The Netherlands",
+    "tweet_count": 557
+  },
+  {
+    "_id": "Беларусь",
+    "tweet_count": 466
+  },
+  {
+    "_id": "Deutschland",
+    "tweet_count": 436
+  },
+  {
+    "_id": "Украина",
+    "tweet_count": 404
+  },
+  {
+    "_id": "United States",
+    "tweet_count": 402
+  },
+  {
+    "_id": "Sweden",
+    "tweet_count": 326
+  },
+  {
+    "_id": "Türkiye",
+    "tweet_count": 315
+  },
+  {
+    "_id": "Magyarország",
+    "tweet_count": 313
+  },
+  {
+    "_id": "Republic of Serbia",
+    "tweet_count": 308
+  },
+  {
+    "_id": "Polska",
+    "tweet_count": 297
+  },
+  {
+    "_id": "België",
+    "tweet_count": 277
+  },
+  {
+    "_id": "Italy",
+    "tweet_count": 221
+  },
+  {
+    "_id": "Suomi",
+    "tweet_count": 214
+  },
+  {
+    "_id": "Ελλάς",
+    "tweet_count": 192
+  },
+  {
+    "_id": "Sverige",
+    "tweet_count": 191
+  },
+  {
+    "_id": "Belgium",
+    "tweet_count": 177
+  },
+  {
+    "_id": "Brasil",
+    "tweet_count": 172
+  },
+  {
+    "_id": "Germany",
+    "tweet_count": 167
+  },
+  {
+    "_id": "Greece",
+    "tweet_count": 159
+  },
+  {
+    "_id": "Spain",
+    "tweet_count": 141
+  },
+  {
+    "_id": "Україна",
+    "tweet_count": 136
+  },
+  {
+    "_id": "Switzerland",
+    "tweet_count": 126
+  },
+  {
+    "_id": "Republic of Belarus",
+    "tweet_count": 119
+  },
+  {
+    "_id": "Cyprus",
+    "tweet_count": 114
+  },
+  {
+    "_id": "Finland",
+    "tweet_count": 102
+  },
+  {
+    "_id": "Canada",
+    "tweet_count": 89
+  },
+  {
+    "_id": "Russia",
+    "tweet_count": 89
+  },
+  {
+    "_id": "Spanje",
+    "tweet_count": 85
+  },
+  {
+    "_id": "Danmark",
+    "tweet_count": 85
+  },
+  {
+    "_id": "Israel",
+    "tweet_count": 82
+  },
+  {
+    "_id": "Suisse",
+    "tweet_count": 81
+  },
+  {
+    "_id": "Argentina",
+    "tweet_count": 78
+  },
+  {
+    "_id": "Norway",
+    "tweet_count": 78
+  },
+  {
+    "_id": "Belgique",
+    "tweet_count": 77
+  },
+  {
+    "_id": "Luxembourg",
+    "tweet_count": 71
+  },
+  {
+    "_id": "Iceland",
+    "tweet_count": 68
+  },
+  {
+    "_id": "ישראל",
+    "tweet_count": 55
+  },
+  {
+    "_id": "Bulgaria",
+    "tweet_count": 52
+  },
+  {
+    "_id": "Republic of Slovenia",
+    "tweet_count": 49
+  },
+  {
+    "_id": "Hrvatska",
+    "tweet_count": 49
+  },
+  {
+    "_id": "Kazakhstan",
+    "tweet_count": 46
+  },
+  {
+    "_id": "Costa Rica",
+    "tweet_count": 46
+  },
+  {
+    "_id": "Denmark",
+    "tweet_count": 41
+  },
+  {
+    "_id": "New Zealand",
+    "tweet_count": 38
+  },
+  {
+    "_id": "Austria",
+    "tweet_count": 38
+  },
+  {
+    "_id": "México",
+    "tweet_count": 37
+  },
+  {
+    "_id": "South Africa",
+    "tweet_count": 34
+  },
+  {
+    "_id": "Ukraine",
+    "tweet_count": 34
+  },
+  {
+    "_id": "Indonesia",
+    "tweet_count": 33
+  },
+  {
+    "_id": "Chile",
+    "tweet_count": 32
+  },
+  {
+    "_id": "Brazil",
+    "tweet_count": 32
+  },
+  {
+    "_id": "Poland",
+    "tweet_count": 32
+  },
+  {
+    "_id": "Colombia",
+    "tweet_count": 31
+  },
+  {
+    "_id": "Bulgarien",
+    "tweet_count": 30
+  },
+  {
+    "_id": "Polonia",
+    "tweet_count": 30
+  },
+  {
+    "_id": "Republic of Croatia",
+    "tweet_count": 30
+  },
+  {
+    "_id": "Spanien",
+    "tweet_count": 29
+  },
+  {
+    "_id": "Srbija",
+    "tweet_count": 28
+  },
+  {
+    "_id": "Malta",
+    "tweet_count": 27
+  },
+  {
+    "_id": "Reino Unido",
+    "tweet_count": 27
+  },
+  {
+    "_id": "Czech Republic",
+    "tweet_count": 26
+  },
+  {
+    "_id": "Regno Unito",
+    "tweet_count": 26
+  },
+  {
+    "_id": "Österreich",
+    "tweet_count": 26
+  },
+  {
+    "_id": "Albania",
+    "tweet_count": 25
+  },
+  {
+    "_id": "Republic of the Philippines",
+    "tweet_count": 23
+  },
+  {
+    "_id": "Espanya",
+    "tweet_count": 23
+  },
+  {
+    "_id": "Mexico",
+    "tweet_count": 22
+  },
+  {
+    "_id": "Belgio",
+    "tweet_count": 21
+  },
+  {
+    "_id": "Hungary",
+    "tweet_count": 21
+  },
+  {
+    "_id": "Romania",
+    "tweet_count": 20
+  },
+  {
+    "_id": "Suiza",
+    "tweet_count": 19
+  },
+  {
+    "_id": "Norge",
+    "tweet_count": 18
+  },
+  {
+    "_id": "Lithuania",
+    "tweet_count": 18
+  },
+  {
+    "_id": "Turkey",
+    "tweet_count": 18
+  },
+  {
+    "_id": "Schweiz",
+    "tweet_count": 18
+  },
+  {
+    "_id": "Slovenija",
+    "tweet_count": 17
+  },
+  {
+    "_id": "Montenegro",
+    "tweet_count": 16
+  },
+  {
+    "_id": "România",
+    "tweet_count": 16
+  },
+  {
+    "_id": "Eire",
+    "tweet_count": 15
+  },
+  {
+    "_id": "Latvija",
+    "tweet_count": 15
+  },
+  {
+    "_id": "Kenya",
+    "tweet_count": 15
+  },
+  {
+    "_id": "Uzbekistan",
+    "tweet_count": 14
+  },
+  {
+    "_id": "المملكة العربية السعودية",
+    "tweet_count": 13
+  },
+  {
+    "_id": "Former Yugoslav Republic of Macedonia",
+    "tweet_count": 13
+  },
+  {
+    "_id": "Estados Unidos",
+    "tweet_count": 13
+  },
+  {
+    "_id": "Irlanda",
+    "tweet_count": 11
+  },
+  {
+    "_id": "Espanha",
+    "tweet_count": 11
+  },
+  {
+    "_id": "Armenia",
+    "tweet_count": 11
+  },
+  {
+    "_id": "Estonia",
+    "tweet_count": 11
+  },
+  {
+    "_id": "Uruguay",
+    "tweet_count": 11
+  },
+  {
+    "_id": "Bélgica",
+    "tweet_count": 10
+  },
+  {
+    "_id": "България",
+    "tweet_count": 9
+  },
+  {
+    "_id": "Bosnia and Herzegovina",
+    "tweet_count": 9
+  },
+  {
+    "_id": "Latvia",
+    "tweet_count": 9
+  },
+  {
+    "_id": "Royaume-Uni",
+    "tweet_count": 9
+  },
+  {
+    "_id": "Georgia",
+    "tweet_count": 7
+  },
+  {
+    "_id": "Kosovo",
+    "tweet_count": 6
+  },
+  {
+    "_id": "Česká republika",
+    "tweet_count": 6
+  },
+  {
+    "_id": "Azerbaijan",
+    "tweet_count": 6
+  },
+  {
+    "_id": "Ecuador",
+    "tweet_count": 6
+  },
+  {
+    "_id": "Moldova",
+    "tweet_count": 6
+  },
+  {
+    "_id": "Estland",
+    "tweet_count": 6
+  },
+  {
+    "_id": "Alemania",
+    "tweet_count": 5
+  },
+  {
+    "_id": "Peru",
+    "tweet_count": 5
+  },
+  {
+    "_id": "Finlandia",
+    "tweet_count": 5
+  },
+  {
+    "_id": "Κύπρος",
+    "tweet_count": 5
+  },
+  {
+    "_id": "Denemarken",
+    "tweet_count": 5
+  },
+  {
+    "_id": "United Arab Emirates",
+    "tweet_count": 5
+  },
+  {
+    "_id": "Vietnam",
+    "tweet_count": 4
+  },
+  {
+    "_id": "Holanda",
+    "tweet_count": 4
+  },
+  {
+    "_id": "Giappone",
+    "tweet_count": 4
+  },
+  {
+    "_id": "Frankrijk",
+    "tweet_count": 4
+  },
+  {
+    "_id": "Espagne",
+    "tweet_count": 4
+  },
+  {
+    "_id": "Allemagne",
+    "tweet_count": 4
+  },
+  {
+    "_id": "Duitsland",
+    "tweet_count": 4
+  },
+  {
+    "_id": "Schweden",
+    "tweet_count": 4
+  },
+  {
+    "_id": "Italie",
+    "tweet_count": 3
+  },
+  {
+    "_id": "Crna Gora",
+    "tweet_count": 3
+  },
+  {
+    "_id": "Eesti",
+    "tweet_count": 3
+  },
+  {
+    "_id": "Paraguay",
+    "tweet_count": 3
+  },
+  {
+    "_id": "República de Moçambique",
+    "tweet_count": 3
+  },
+  {
+    "_id": "Slovenská republika",
+    "tweet_count": 3
+  },
+  {
+    "_id": "Tajikistan",
+    "tweet_count": 3
+  },
+  {
+    "_id": "Francia",
+    "tweet_count": 3
+  },
+  {
+    "_id": "Germania",
+    "tweet_count": 3
+  },
+  {
+    "_id": "Suecia",
+    "tweet_count": 3
+  },
+  {
+    "_id": "Slovak Republic",
+    "tweet_count": 3
+  },
+  {
+    "_id": "Yhdistynyt kuningaskunta",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Etats-Unis",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Russland",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Antártida",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Islande",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Turquie",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Egypt",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Zwitserland",
+    "tweet_count": 2
+  },
+  {
+    "_id": "República Checa",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Vereinigtes Königreich",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Guyana",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Dinamarca",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Venezuela",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Gibraltar",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Grèce",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Polen",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Frankreich",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Lituanie",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Italien",
+    "tweet_count": 2
+  },
+  {
+    "_id": "República de Serbia",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Rusland",
+    "tweet_count": 2
+  },
+  {
+    "_id": "Andorra",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Malaysia",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Italië",
+    "tweet_count": 1
+  },
+  {
+    "_id": "India",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Yhdysvallat",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Saint Lucia",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Kroatia",
+    "tweet_count": 1
+  },
+  {
+    "_id": "La Réunion",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Guatemala",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Alemanha",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Irlanti",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Dominican Republic",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Morocco",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Ghana",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Spagna",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Singapore",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Förre detta jugoslaviska republiken Makedonien",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Niederlande",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Pakistan",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Espainia",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Verenigd Koninkrijk",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Поранешна Југословенска Република Македонија",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Portugali",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Lebanon",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Pays-Bas",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Rusia",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Republik Serbien",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Cuba",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Kroatië",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Ägypten",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Ucraina",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Faroe Islands",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Croazia",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Nigeria",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Ranska",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Monaco",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Chipre",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Noruega",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Belarus'",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Irland",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Tanzania",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Hashemite Kingdom of Jordan",
+    "tweet_count": 1
+  },
+  {
+    "_id": "대한민국",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Jersey",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Turkki",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Aserbaidschan",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Bolivia",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Vereinigte Staaten",
+    "tweet_count": 1
+  },
+  {
+    "_id": "Mexique",
+    "tweet_count": 1
+  }
+]

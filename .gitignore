@@ -1,0 +1,25 @@
+# Raw dataset (3.7 GB — too big for git)
+data/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+
+# MS Office lock files
+~$*
+
+# Local Claude state (may contain secrets)
+.claude/
+
+# Node (build_deck.js / build_report.js artifacts only — modules are global)
+node_modules/
+
+# Local logs and scratch
+*.log
+scratch/

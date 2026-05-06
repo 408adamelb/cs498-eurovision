@@ -1,0 +1,402 @@
+[
+  {
+    "_id": "eurovision",
+    "tweet_count": 591213
+  },
+  {
+    "_id": "esc2018",
+    "tweet_count": 66736
+  },
+  {
+    "_id": "allaboard",
+    "tweet_count": 54319
+  },
+  {
+    "_id": "escita",
+    "tweet_count": 30076
+  },
+  {
+    "_id": "eurosemi1",
+    "tweet_count": 26735
+  },
+  {
+    "_id": "eurosemi2",
+    "tweet_count": 24426
+  },
+  {
+    "_id": "eurovision2018",
+    "tweet_count": 12603
+  },
+  {
+    "_id": "esf18",
+    "tweet_count": 12074
+  },
+  {
+    "_id": "eurovisiongr",
+    "tweet_count": 7634
+  },
+  {
+    "_id": "esc",
+    "tweet_count": 7095
+  },
+  {
+    "_id": "евровидение",
+    "tweet_count": 6300
+  },
+  {
+    "_id": "metamoroesc2018",
+    "tweet_count": 5552
+  },
+  {
+    "_id": "isr",
+    "tweet_count": 5393
+  },
+  {
+    "_id": "songfestival",
+    "tweet_count": 5049
+  },
+  {
+    "_id": "metamoro",
+    "tweet_count": 4752
+  },
+  {
+    "_id": "hun",
+    "tweet_count": 4467
+  },
+  {
+    "_id": "cyp",
+    "tweet_count": 4333
+  },
+  {
+    "_id": "swe",
+    "tweet_count": 4189
+  },
+  {
+    "_id": "irl",
+    "tweet_count": 4135
+  },
+  {
+    "_id": "aus",
+    "tweet_count": 4053
+  },
+  {
+    "_id": "cze",
+    "tweet_count": 4045
+  },
+  {
+    "_id": "fin",
+    "tweet_count": 3963
+  },
+  {
+    "_id": "den",
+    "tweet_count": 3906
+  },
+  {
+    "_id": "ukr",
+    "tweet_count": 3738
+  },
+  {
+    "_id": "foustanela",
+    "tweet_count": 3671
+  },
+  {
+    "_id": "nor",
+    "tweet_count": 3589
+  },
+  {
+    "_id": "pol",
+    "tweet_count": 3509
+  },
+  {
+    "_id": "ned",
+    "tweet_count": 3467
+  },
+  {
+    "_id": "esc18",
+    "tweet_count": 3442
+  },
+  {
+    "_id": "евровидение2018",
+    "tweet_count": 3404
+  },
+  {
+    "_id": "est",
+    "tweet_count": 3310
+  },
+  {
+    "_id": "slo",
+    "tweet_count": 3270
+  },
+  {
+    "_id": "mda",
+    "tweet_count": 3163
+  },
+  {
+    "_id": "gre",
+    "tweet_count": 3140
+  },
+  {
+    "_id": "esf2018",
+    "tweet_count": 3041
+  },
+  {
+    "_id": "bul",
+    "tweet_count": 3022
+  },
+  {
+    "_id": "eurowizja",
+    "tweet_count": 2983
+  },
+  {
+    "_id": "smr",
+    "tweet_count": 2878
+  },
+  {
+    "_id": "cro",
+    "tweet_count": 2798
+  },
+  {
+    "_id": "sui",
+    "tweet_count": 2781
+  },
+  {
+    "_id": "aut",
+    "tweet_count": 2758
+  },
+  {
+    "_id": "rus",
+    "tweet_count": 2732
+  },
+  {
+    "_id": "srb",
+    "tweet_count": 2678
+  },
+  {
+    "_id": "bel",
+    "tweet_count": 2670
+  },
+  {
+    "_id": "mkd",
+    "tweet_count": 2527
+  },
+  {
+    "_id": "blr",
+    "tweet_count": 2506
+  },
+  {
+    "_id": "mlt",
+    "tweet_count": 2421
+  },
+  {
+    "_id": "ltu",
+    "tweet_count": 2418
+  },
+  {
+    "_id": "geo",
+    "tweet_count": 2306
+  },
+  {
+    "_id": "lat",
+    "tweet_count": 2304
+  },
+  {
+    "_id": "cyprus",
+    "tweet_count": 2269
+  },
+  {
+    "_id": "mne",
+    "tweet_count": 2255
+  },
+  {
+    "_id": "sbseurovision",
+    "tweet_count": 2242
+  },
+  {
+    "_id": "alb",
+    "tweet_count": 2177
+  },
+  {
+    "_id": "israel",
+    "tweet_count": 2120
+  },
+  {
+    "_id": "isl",
+    "tweet_count": 1989
+  },
+  {
+    "_id": "rou",
+    "tweet_count": 1971
+  },
+  {
+    "_id": "australia",
+    "tweet_count": 1920
+  },
+  {
+    "_id": "aze",
+    "tweet_count": 1800
+  },
+  {
+    "_id": "esf",
+    "tweet_count": 1793
+  },
+  {
+    "_id": "arm",
+    "tweet_count": 1717
+  },
+  {
+    "_id": "ireland",
+    "tweet_count": 1688
+  },
+  {
+    "_id": "tweurovision",
+    "tweet_count": 1680
+  },
+  {
+    "_id": "ukraine",
+    "tweet_count": 1674
+  },
+  {
+    "_id": "euroviisut",
+    "tweet_count": 1669
+  },
+  {
+    "_id": "eurovisionsongcontest",
+    "tweet_count": 1570
+  },
+  {
+    "_id": "sweden",
+    "tweet_count": 1563
+  },
+  {
+    "_id": "eurovisioncy",
+    "tweet_count": 1535
+  },
+  {
+    "_id": "escjp",
+    "tweet_count": 1484
+  },
+  {
+    "_id": "fabriziomoro",
+    "tweet_count": 1412
+  },
+  {
+    "_id": "nonmiavetefattoniente",
+    "tweet_count": 1392
+  },
+  {
+    "_id": "ermalmeta",
+    "tweet_count": 1387
+  },
+  {
+    "_id": "poland",
+    "tweet_count": 1386
+  },
+  {
+    "_id": "teamwaylon",
+    "tweet_count": 1255
+  },
+  {
+    "_id": "estonia",
+    "tweet_count": 1218
+  },
+  {
+    "_id": "finland",
+    "tweet_count": 1131
+  },
+  {
+    "_id": "moldova",
+    "tweet_count": 1127
+  },
+  {
+    "_id": "eurovisiesongfestival",
+    "tweet_count": 1120
+  },
+  {
+    "_id": "hungary",
+    "tweet_count": 1103
+  },
+  {
+    "_id": "semifinal1",
+    "tweet_count": 1086
+  },
+  {
+    "_id": "12points",
+    "tweet_count": 1085
+  },
+  {
+    "_id": "fuego",
+    "tweet_count": 1026
+  },
+  {
+    "_id": "waylon",
+    "tweet_count": 1008
+  },
+  {
+    "_id": "denmark",
+    "tweet_count": 974
+  },
+  {
+    "_id": "lithuania",
+    "tweet_count": 948
+  },
+  {
+    "_id": "allabroad",
+    "tweet_count": 893
+  },
+  {
+    "_id": "norway",
+    "tweet_count": 873
+  },
+  {
+    "_id": "slovenia",
+    "tweet_count": 867
+  },
+  {
+    "_id": "serbia",
+    "tweet_count": 854
+  },
+  {
+    "_id": "bulgaria",
+    "tweet_count": 812
+  },
+  {
+    "_id": "greece",
+    "tweet_count": 809
+  },
+  {
+    "_id": "einbisschenfrieden",
+    "tweet_count": 786
+  },
+  {
+    "_id": "austria",
+    "tweet_count": 784
+  },
+  {
+    "_id": "євробачення",
+    "tweet_count": 774
+  },
+  {
+    "_id": "russia",
+    "tweet_count": 771
+  },
+  {
+    "_id": "bbceurovision",
+    "tweet_count": 769
+  },
+  {
+    "_id": "belarus",
+    "tweet_count": 769
+  },
+  {
+    "_id": "albania",
+    "tweet_count": 767
+  },
+  {
+    "_id": "sanmarino",
+    "tweet_count": 732
+  },
+  {
+    "_id": "netherlands",
+    "tweet_count": 683
+  }
+]

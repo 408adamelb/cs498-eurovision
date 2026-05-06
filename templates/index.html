@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Eurovision 2018 — MongoDB Prototype</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<header>
+  <h1>Eurovision 2018 Tweets</h1>
+  <p class="sub">CS 498 · Stage 2 Prototype · MongoDB document store</p>
+</header>
+
+<main>
+
+<!-- Q1 -->
+<section class="card">
+  <header class="card-h">
+    <span class="badge">Q1</span>
+    <h2>Path finding — reply thread by user</h2>
+  </header>
+  <p class="desc">Reconstruct local reply chains within a single user's tweets.</p>
+  <div class="controls">
+    <label>screen_name <input type="text" id="q1_sn" value="blcklcfr"></label>
+    <button data-q="q1">Run</button>
+  </div>
+  <div class="result" id="q1_out"></div>
+</section>
+
+<!-- Q2 -->
+<section class="card">
+  <header class="card-h">
+    <span class="badge">Q2</span>
+    <h2>Country with most tweets</h2>
+  </header>
+  <p class="desc">Group by <code>place.country</code>, sort, take top.</p>
+  <div class="controls"><button data-q="q2">Run</button></div>
+  <div class="result" id="q2_out"></div>
+</section>
+
+<!-- Q3 -->
+<section class="card">
+  <header class="card-h">
+    <span class="badge">Q3</span>
+    <h2>User with most tweets</h2>
+  </header>
+  <p class="desc">Group by <code>user.id</code>, sort, take top.</p>
+  <div class="controls"><button data-q="q3">Run</button></div>
+  <div class="result" id="q3_out"></div>
+</section>
+
+<!-- Q4 -->
+<section class="card">
+  <header class="card-h">
+    <span class="badge">Q4</span>
+    <h2>Top 100 hashtags</h2>
+  </header>
+  <p class="desc">Multikey index on <code>entities.hashtags</code> + <code>$unwind</code>.</p>
+  <div class="controls"><button data-q="q4">Run</button></div>
+  <div class="result" id="q4_out"></div>
+</section>
+
+<!-- Q5 -->
+<section class="card">
+  <header class="card-h">
+    <span class="badge">Q5</span>
+    <h2>Mutual-reply trios (A↔B, B↔C, A↔C)</h2>
+  </header>
+  <p class="desc">Build directed reply edges, derive mutual pairs, enumerate triangles.</p>
+  <div class="controls"><button data-q="q5">Run</button></div>
+  <div class="result" id="q5_out"></div>
+</section>
+
+<!-- Q6 -->
+<section class="card">
+  <header class="card-h">
+    <span class="badge">Q6</span>
+    <h2>Verified users — % by tweet type</h2>
+  </header>
+  <p class="desc">For each verified user, breakdown of simple/reply/retweet/quote.</p>
+  <div class="controls"><button data-q="q6">Run</button></div>
+  <div class="result" id="q6_out"></div>
+</section>
+
+</main>
+
+<footer>
+  <small>Backed by MongoDB · 795,473 tweets · 7 indexes</small>
+</footer>
+
+<script src="/static/app.js"></script>
+</body>
+</html>
