@@ -2,6 +2,9 @@
 
 Twitter Eurovision 2018 dataset (~795k tweets) loaded into MongoDB, with all six required analytical queries implemented and a Flask web frontend.
 
+**Live demo:** https://eurovision-app-283669799369.us-central1.run.app
+*(Cloud Run + MongoDB Atlas on GCP. Cold start ~3 seconds; queries return in <1s after warm-up.)*
+
 **Team:** Srikar Pisupati (srikarp3), Anirudh Venkatraman (av47), Adam El Bahey (elbahey2)
 
 ---

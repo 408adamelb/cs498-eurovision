@@ -13,6 +13,12 @@ from typing import Any, Iterable
 
 from pymongo import MongoClient
 
+try:
+    import certifi
+    _CA_FILE = certifi.where()
+except Exception:
+    _CA_FILE = None
+
 MONGO_URI = os.environ.get("MONGO_URI", "mongodb://localhost:27017")
 DB_NAME = "eurovision"
 COLL_NAME = "tweets"
@@ -23,7 +29,14 @@ _client: MongoClient | None = None
 def coll():
     global _client
     if _client is None:
-        _client = MongoClient(MONGO_URI)
+        kwargs = {}
+        # Atlas (mongodb+srv://) needs TLS with a known CA bundle. certifi works
+        # everywhere; passing tlsCAFile makes pymongo use it instead of the
+        # OS trust store, which avoids TLSV1 handshake errors in slim containers.
+        if MONGO_URI.startswith("mongodb+srv://") or "tls=true" in MONGO_URI:
+            if _CA_FILE:
+                kwargs["tlsCAFile"] = _CA_FILE
+        _client = MongoClient(MONGO_URI, **kwargs)
     return _client[DB_NAME][COLL_NAME]
 
 
